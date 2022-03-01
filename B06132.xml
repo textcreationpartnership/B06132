@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the most honourable, honourable [sic] and worthy members of both Houses of Parliament, more especially those who have interest in mines in any part this kingdom. The humble representation and address of the the petitioners for the Bill for preventing multiplicity of vexatious suits, and for settling and ascertaining a certain antient and customary tyth in the county of Derby, according to the tenor, equity and establishment of divers decrees in chancery, grounded on solemn tryals at common-law.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06132</idno>
+            <idno type="STC">Wing T1575A</idno>
+            <idno type="STC">ESTC R185333</idno>
+            <idno type="EEBO-CITATION">49521015</idno>
+            <idno type="OCLC">ocm 49521015</idno>
+            <idno type="VID">174237</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06132)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174237)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2679:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the most honourable, honourable [sic] and worthy members of both Houses of Parliament, more especially those who have interest in mines in any part this kingdom. The humble representation and address of the the petitioners for the Bill for preventing multiplicity of vexatious suits, and for settling and ascertaining a certain antient and customary tyth in the county of Derby, according to the tenor, equity and establishment of divers decrees in chancery, grounded on solemn tryals at common-law.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Eton College. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tithes --  Church of England --  Early works to 1800.</term>
+               <term>Lead mines and mining --  England --  Derby --  Taxation --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174237:1"/>
+            <head>To the moſt Honourable, Honourable and Worthy Members of both Houſes of <hi>Parliament,</hi> more eſpecially thoſe who have Intereſt in Mines in any part of this Kingdom.</head>
+            <head>
+               <hi>The Humble Repreſentation and Addreſs of the Petitioners for the</hi> Bill for preventing multiplicity of Vexatious Suits, and for Settling and Aſcertaining a certain Antient and Cuſtomary Tyth in the County of <hi>Derby,</hi> according to the Tenor, Equity and Eſtabliſhment of divers Decrees in Chancery, grounded on <hi>ſolemn Tryals at Common-Law.</hi>
+            </head>
+            <opener>Moſt Humbly ſheweth:</opener>
+            <p>THAT whereas there is now humbly offered to the Conſideration of the two moſt Honourable Houſes, a certain <hi>Pri<g ref="char:EOLhyphen"/>vate Bill,</hi> Entituled as is above mentioned: The intent and purpoſe of which Bill is no other, but to ſettle Peace, and to prevent a multiplicity of Suits, and to re-inſtate the Petitioners (who are Clergy-Men) in the antient, juſt, and often acknowledged Right of their Churches, by the general Eſtabliſhment of a certain Cuſtomary Tyth, or Tenth of Lead-Oar, <hi>peculiar to the County of</hi> Derby <hi>only.</hi>
+            </p>
+            <p>Which ſaid Antient Tyth was for many Ages paſt (even till of late Years) paid and anſwered to the Petitioners Predeceſ<g ref="char:EOLhyphen"/>ſors without contradiction, and the Petitioners and their Predeceſſors have, and do conſtantly at this day pay Firſt-fruits and Tenths to the King expreſly for the ſame; And the Petitioners Right, as well as the <hi>general Right of all the Proprietors</hi> in the ſaid County has formerly been examined, proved, and confirmed <hi>by ſolemn Verdicts at Common-Law,</hi> and declared and ap<g ref="char:EOLhyphen"/>proved by divers Orders and Decrees of all the <hi>Courts of Law or Equity in England,</hi> and by the King's moſt Honourable Privy Councel, and in a good meaſure alſo, by former Votes and Debates of the Honourable Houſe of Commons it ſelf. And the ſaid Right of all Proprietors throughout the ſaid County of <hi>Derby,</hi> to the ſaid Tyth hath been univerſally confeſſed and acknowledged and entered on Record, and pleaded in defence of the Priviledges, Laws, and Cuſtoms, and other Advantages which all thoſe Perſons uſe and enjoy at this day, who are concerned in Mines in the ſaid County of <hi>Derby,</hi> and who ought to pay the ſame.</p>
+            <p>And the ſaid Tyth of Lead-Oar is at this day enjoyed and received by many Noblemen, Gentlemen; and Clergy-Men, the Petitioners Neighbours in the ſaid County, all of them having the ſame general and acknowledged Right, which the Petitio<g ref="char:EOLhyphen"/>ners have to the ſame Tyth.</p>
+            <p>Notwithſtanding all which, the Petitioners are moſt unjuſtly denied and kept out of their ſaid antient Right, and ſome of their Pre<g ref="char:EOLhyphen"/>deceſſors were almoſt ruined and undone by long, chargeable, and vexatious Suits concerning the ſame. The Opponents of this Right having cauſed the expence of more than <hi>Ten Thouſand Pounds,</hi> upon a moderate computation, in Suits at Law concerning this Tyth within <hi>Fourſcore Years</hi> laſt paſt: And the Petitioners by the preſent with-holding of it, being deprived of a great part of the Main<g ref="char:EOLhyphen"/>tenance of their ſeveral Churches: And being daily more and more injured and impoveriſhed in their other Tyths, by the general and univerſal Liberty allowed by the Antient and known Laws and Cuſtoms of the ſaid Lead-Mines in the ſaid County of <hi>Derby,</hi> for all Perſons whatever who are Subjects of <hi>England</hi> (though no Inhabitants or Pariſhioners) to dig and ſearch for Lead-Oar in moſt Mineral Pariſhes and Places in the ſaid County, without the Land-holders leave. And the Petitioners, by the ſad Experi<g ref="char:EOLhyphen"/>ences of the great loſs and expences of their Predeceſſors in Suits at Law againſt a multitude, and by divers other means (ſet forth in their Petition, and former printed Caſes and Appendix thereto) being wholly discouraged, diſabled and rendred inca<g ref="char:EOLhyphen"/>pable of following and purſuing this their Right at Law, are therefore neceſſitated, and hope it will be thought reaſonable for them to apply themſelves to His Majeſty, and the two moſt Honourable Houſes of <hi>Parliament,</hi> for Redreſs of this their grievance, and for preventing Multiplicity of Suits, and for ſetling and aſcertaining to them and their Succeſſors, as well as other Proprietors, a more eaſie way of Recovery of the ſaid Tyth.</p>
+            <p>And whereas the numerous Opponents of this Tyth, notwithſtanding all the vaſt Expences by them formerly cauſed in op<g ref="char:EOLhyphen"/>poſing it, are yet ready and prepared to cauſe more Expences, and they, or ſome of them (as the Petitioners have been credi<g ref="char:EOLhyphen"/>bly informed) have threatned, and given out in Speeches, that they will ſpend many <hi>Hundred Pounds,</hi> but that they will prevent the ſettling of the Petitioners Right in <hi>Parliament</hi> (though by what means they will do ſo, the Petitioners cannot imagine.) And to that end, by falſe inſinuations and pretences, do endeavour to miſrepreſent the ſaid Petitioners, and their ſaid Bill, (En<g ref="char:EOLhyphen"/>tituled as above ſaid) to divers Honourable and Worthy Members of <hi>Parliament,</hi> who are intereſted in Mines in divers parts of this Kingdom, as if the ſaid Bill did, or might ſomeways affect them or their Rights, or might be at leaſt, a dangerous precedent to eſtabliſh the like Tyth from their Mines. In all humility therefore, the Petitioners for the ſaid Bill aforeſaid, crave leave to repreſent to the ſaid Honourable and Worthy Perſons, That the paſſing this their Bill, does not, nor cannot poſſibly concern, or affect any Mine, or Mines what ever, but only the Lead-Mines in <hi>Derby-ſhire,</hi> the Eſtabliſhment being only deſired for that County where the ſaid Right of this Tyth hath been abundantly acknowledged as aforeſaid, and is in moſt places of it paid at this Day. And the Petitioners for the ſaid Bill, do not found their Claim and Pretences to this Tyth, as if the ſame were a new thing, or as if Mines were ordinarily Tythable of common Right (as their Opponents may, to their prejudice, inſinuate); but the Petitioners only deſire to be re-inſtated in the Antient Right of their poor Churches, which depends upon ſuch Laws, Cuſtoms, Priviledges, Acknowledgments of this Tyth, and Payments for it to the King, aforeſaid, as are peculiar to themſelves and their own County of <hi>Derby,</hi> and therefore cannot injure nor give juſt umbrage of any dangerous precedent to others.</p>
+            <p>And therefore the Petitioners hope, that with all humble confidence, they may refer themſelves and their Caſe, to the Honour, Integrity, and Impartiality of all Honourable and Worthy Perſons, and to the Wiſdom and Juſtice of His MAJESTY, and the Two moſt Honourable Houſes of <hi>Parliament,</hi> the only Potent and Effectual Redreſſors of otherwiſe-unremedyable grievances, and the common Patrons and Refuge of all injured Perſons, and poor deſpoiled Churches.</p>
+            <closer>
+               <signed>And the Petitioners ſhall, and do, ever Pray, &amp;c.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Note,</hi> That there has been Expended in Suits at Law, concerning the ſaid Tyth of <hi>Lead-Oar,</hi> above <hi>Twelve Thouſand Pounds</hi> upon a moderate Computation, within <hi>Eighty Years</hi> laſt paſt. A certain Attorney at Law, who knows the general Right aforeſaid, in the ſaid County, and has de<g ref="char:EOLhyphen"/>fended the ſame, having been concerned in Suits both for and againſt the ſaid Tyth, (according as the Quality, Intereſt or Purſes of his <hi>Clients</hi> did differently engage him) is now become a Zealous Solicitor againſt the foreſaid Bill. Has he not great Reaſon ſo to do?</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
